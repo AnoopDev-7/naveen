@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: naveen
+    env: static
+    staticPublishPath: ./Naveen
